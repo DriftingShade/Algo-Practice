@@ -16,6 +16,7 @@ function isPrime(n) {
 console.log(isPrime(5)); // true
 console.log(isPrime(6)); // false
 console.log(isPrime(11)); // true
+
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 // The time complexity of the isPrime function is O(n) because we are iterating from 2 to n to check if n is divisible by any number.
