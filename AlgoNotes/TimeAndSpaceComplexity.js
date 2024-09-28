@@ -35,7 +35,7 @@ while (i < n) {
   i *= 2;
 }
 
-// Multiple algorithms exist for the same problem and there is no ONE right solution.  Differetn algorithms work well under different constraints.
+// Multiple algorithms exist for the same problem and there is no ONE right solution.  Different algorithms work well under different constraints.
 
 // The same algorithm with the same programming language can be implemented in different ways.  The choice of implementation can affect the performance of the algorithm.
 
